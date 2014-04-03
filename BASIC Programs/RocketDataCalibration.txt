@@ -1,0 +1,6 @@
+E9-4a.rkt,62,80,40,50
+E9-4b.rkt,37,60,20,30
+flight1.rkt,59,70,40,50
+flight1i.rkt,55,65,40,50
+flight2.rkt,32,40,10,20
+flight2i.rkt,51,60,20,40
